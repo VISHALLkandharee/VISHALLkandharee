@@ -10,7 +10,7 @@ I take products from idea → database design → REST APIs → real-time featur
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| **Task-Flow** | Multi-tenant team SaaS — Kanban, Stripe billing, Socket.io real-time sync, BullMQ job queue, RBAC | Next.js · TypeScript · PostgreSQL · Stripe · Socket.io · BullMQ | [↗ GitHub](https://github.com/VISHALLkandharee/Task-Flow) |
+| **Task-Flow** | Multi-tenant team SaaS — Kanban, Stripe billing, Socket.io real-time sync, BullMQ job queue, RBAC | Next.js · TypeScript · PostgreSQL · Stripe · Socket.io · BullMQ | [↗ Live](https://task-flow-nu-sepia.vercel.app/) |
 | **Route-Master** | AI-powered route optimizer for local businesses — Claude AI, interactive maps, Stripe billing | Next.js 16 · Anthropic SDK · Leaflet · Supabase · Stripe · Zustand | [↗ Live](https://route-master-sooty.vercel.app) |
 | **SaaS Pulse** | Real-time founder dashboard — MRR, churn, live signups, JWT + RBAC | Next.js · MongoDB · Node.js · JWT | [↗ Live](https://saas-pulse-liart.vercel.app) |
 | **InvestTrack** | Investment portfolio tracker — OAuth login, live market data, Prisma ORM | Next.js · TypeScript · PostgreSQL · NextAuth | [↗ Live](https://investment-tracker-next-app.vercel.app) |
